@@ -1,0 +1,9 @@
+C:\Users\Kyamc\React\ReactJs.Net-core-App\ReactjsNet\ReactjsNet.Web\bin\Debug\netcoreapp1.1\ReactjsNet.Web.deps.json
+C:\Users\Kyamc\React\ReactJs.Net-core-App\ReactjsNet\ReactjsNet.Web\bin\Debug\netcoreapp1.1\ReactjsNet.Web.runtimeconfig.json
+C:\Users\Kyamc\React\ReactJs.Net-core-App\ReactjsNet\ReactjsNet.Web\bin\Debug\netcoreapp1.1\ReactjsNet.Web.runtimeconfig.dev.json
+C:\Users\Kyamc\React\ReactJs.Net-core-App\ReactjsNet\ReactjsNet.Web\bin\Debug\netcoreapp1.1\ReactjsNet.Web.dll
+C:\Users\Kyamc\React\ReactJs.Net-core-App\ReactjsNet\ReactjsNet.Web\obj\Debug\netcoreapp1.1\ReactjsNet.Web.csprojResolveAssemblyReference.cache
+C:\Users\Kyamc\React\ReactJs.Net-core-App\ReactjsNet\ReactjsNet.Web\obj\Debug\netcoreapp1.1\ReactjsNet.Web.AssemblyInfo.cs
+C:\Users\Kyamc\React\ReactJs.Net-core-App\ReactjsNet\ReactjsNet.Web\bin\Debug\netcoreapp1.1\ReactjsNet.Web.pdb
+C:\Users\Kyamc\React\ReactJs.Net-core-App\ReactjsNet\ReactjsNet.Web\obj\Debug\netcoreapp1.1\ReactjsNet.Web.dll
+C:\Users\Kyamc\React\ReactJs.Net-core-App\ReactjsNet\ReactjsNet.Web\obj\Debug\netcoreapp1.1\ReactjsNet.Web.pdb
